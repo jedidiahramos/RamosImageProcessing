@@ -1,0 +1,16 @@
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\bin\Debug\net6.0-windows\RamosImageProcessing.exe
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\bin\Debug\net6.0-windows\RamosImageProcessing.deps.json
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\bin\Debug\net6.0-windows\RamosImageProcessing.runtimeconfig.json
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\bin\Debug\net6.0-windows\RamosImageProcessing.dll
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\bin\Debug\net6.0-windows\RamosImageProcessing.pdb
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\obj\Debug\net6.0-windows\RamosImageProcessing.Form1.resources
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\obj\Debug\net6.0-windows\RamosImageProcessing.csproj.GenerateResource.cache
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\obj\Debug\net6.0-windows\RamosImageProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\obj\Debug\net6.0-windows\RamosImageProcessing.AssemblyInfoInputs.cache
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\obj\Debug\net6.0-windows\RamosImageProcessing.AssemblyInfo.cs
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\obj\Debug\net6.0-windows\RamosImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\obj\Debug\net6.0-windows\RamosImageProcessing.dll
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\obj\Debug\net6.0-windows\refint\RamosImageProcessing.dll
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\obj\Debug\net6.0-windows\RamosImageProcessing.pdb
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\obj\Debug\net6.0-windows\RamosImageProcessing.genruntimeconfig.cache
+C:\Users\Jedidiah Ramos\source\repos\RamosImageProcessing\RamosImageProcessing\obj\Debug\net6.0-windows\ref\RamosImageProcessing.dll
